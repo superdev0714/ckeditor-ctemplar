@@ -1,0 +1,11 @@
+.DS_Store
+/.idea
+/.vscode
+/dist
+/e2e/*.js
+/e2e/*.map
+/release
+/tmp/
+electron-main.js*
+node_modules
+Thumbs.db
